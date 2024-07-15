@@ -6,7 +6,7 @@
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s" width="45" /> About Me:
 
-- 🔭 **Current Focus**: Deepening my knowledge and expertise in Computational Neuroscience, particularly in understanding brain computations and creating brain-inspired models. <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_MKejXoSVL8C1dkUXX17r8_DkLKmMtegSg&s" width="15%" />
+- 🔭 **Current Focus**: Deepening my knowledge and expertise in Computational Neuroscience, particularly in understanding brain computations and creating brain-inspired models.
 - 🎓 **Academic Pursuits**: Actively seeking opportunities for a Master's or direct Ph.D. program to further my studies and contribute to cutting-edge research.
 - 🌱 **Always Learning**: Constantly exploring new technologies, frameworks, and methodologies to stay at the forefront of my field.
 - 🛠️ **Tools I use**:
@@ -41,6 +41,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-007ACC?style=for-the-badge&logo=adobe-photoshop&logoColor=white&borderRadius=10px)
 ![Pixelmator Pro](https://img.shields.io/badge/Pixelmator_Pro-009688?style=for-the-badge&logo=pixelmator&logoColor=white&borderRadius=10px)
 ![Figma](https://img.shields.io/badge/Figma-6200EA?style=for-the-badge&logo=figma&logoColor=white&borderRadius=10px)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_MKejXoSVL8C1dkUXX17r8_DkLKmMtegSg&s" width="15%" />
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxoNnZkZnVzeGxuaTJncGM1NXVyOHRybTY2M21qNmVib3ppOGs3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3QsVy4I0zvGWIesyj/giphy.webp" width="45" /> My Interests:
 
