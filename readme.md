@@ -42,6 +42,9 @@
 ![Pixelmator Pro](https://img.shields.io/badge/Pixelmator_Pro-009688?style=for-the-badge&logo=pixelmator&logoColor=white&borderRadius=10px)
 ![Figma](https://img.shields.io/badge/Figma-6200EA?style=for-the-badge&logo=figma&logoColor=white&borderRadius=10px)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_MKejXoSVL8C1dkUXX17r8_DkLKmMtegSg&s" width="15%" />
+
+
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxoNnZkZnVzeGxuaTJncGM1NXVyOHRybTY2M21qNmVib3ppOGs3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3QsVy4I0zvGWIesyj/giphy.webp" width="45" /> My Interests:
 
 - **Computational Neuroscience** 🧠
