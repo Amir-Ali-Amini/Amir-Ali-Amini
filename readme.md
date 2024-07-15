@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm AmirAli 🧑‍💻
 
-![Welcome GIF](https://cdn.dribbble.com/users/1061750/screenshots/4314775/media/e5b8a5189984db6a349cc276920a7df3.gif)
+![Welcome GIF](https://i3.wp.com/cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif?ssl=1)
 
 **Welcome** to my GitHub profile! I'm a final-year Computer Science undergraduate student with a passion for exploring and innovating in the fields of Artificial Intelligence, Machine Learning, Computational Neuroscience, Computer Vision, and Natural Language Processing.
 
