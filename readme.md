@@ -2,7 +2,7 @@
 
 ![Welcome GIF](https://i3.wp.com/cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif?ssl=1)
 
-**Welcome** to my GitHub profile! I'm a final-year Computer Science undergraduate student with a passion for exploring and innovating in the fields of Artificial Intelligence, Machine Learning, Computational Neuroscience, Computer Vision, and Natural Language Processing.
+**Welcome** to my GitHub profile! I'm a final-year Computer Science undergraduate student with a passion for exploring and innovating in the fields of Artificial Intelligence, Machine Learning,Computer Vision, Natural Language Processing, and Computational Neuroscience.
 
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s" width="45" /> About Me:
 
