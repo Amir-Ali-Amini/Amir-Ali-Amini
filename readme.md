@@ -4,7 +4,7 @@
 
 **Welcome** to my GitHub profile! I'm a final-year Computer Science undergraduate student with a passion for exploring and innovating in the fields of Artificial Intelligence, Machine Learning,Computer Vision, Natural Language Processing, and Computational Neuroscience.
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s" width="45" /> About Me:
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s" width="45" /> About Me
 
 - 🔭 **Current Focus**: Deepening my knowledge and expertise in Computational Neuroscience, particularly in understanding brain computations and creating brain-inspired models.
 - 🎓 **Academic Pursuits**: Actively seeking opportunities for a Master's or direct Ph.D. program to further my studies and contribute to cutting-edge research.
@@ -44,14 +44,18 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3_MKejXoSVL8C1dkUXX17r8_DkLKmMtegSg&s" width="15%" />
 
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxoNnZkZnVzeGxuaTJncGM1NXVyOHRybTY2M21qNmVib3ppOGs3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3QsVy4I0zvGWIesyj/giphy.webp" width="45" /> My Interests:
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxoNnZkZnVzeGxuaTJncGM1NXVyOHRybTY2M21qNmVib3ppOGs3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K3QsVy4I0zvGWIesyj/giphy.webp" width="45" /> My Interests
 
 - **Computational Neuroscience** 🧠
 - **Artificial Intelligence** 🤖
 - **Machine Learning** 📊.
 - **Computer Vision** 👁️
 - **Natural Language Processing** 🗣️
+
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDO6H-KyiD5N9SaIIaJgbvLafnJTmIQ7F_tw&s" width="45" /> Language Proficiency
+
+- **Persian** - native
+- **English** - fluent (C1, IELTS: 7.5)
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGl6dGdxZDM3YW9ha256Z3Q3cmw2NnRpOGsweWYxNHdrcjZncXJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/47rD4FjGW0KFDM1WAE/giphy.webp" width="45px"> GitHub Stats
 
